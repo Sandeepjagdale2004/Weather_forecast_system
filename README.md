@@ -60,6 +60,6 @@ The **Weather App** provides users with accurate weather forecasts by leveraging
 ## Known Issues  
 - If the city is not found, the app will display an error message in the console.
 - The app currently does not support weather alerts or notifications.
-=======
+
 # Weather_forecast_system
 Website that updates us with the wether today and for next 4 days
