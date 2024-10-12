@@ -1,4 +1,4 @@
-#**Weather App**
+#Weather App
 
 ####**Overview**
 The Weather App provides users with accurate weather forecasts by leveraging the OpenWeatherMap API. Users can search for weather details by entering a location, and the app dynamically displays the current weather along with forecasts for the next few days.
