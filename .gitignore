@@ -1,1 +1,14 @@
+
 notes.md
+# Ignore API keys or sensitive files
+*.env
+
+# Node modules or libraries (if added in the future)
+node_modules/
+
+# OS/Editor-specific files
+.DS_Store
+*.log
+
+# Temporary files or cache
+*.cache

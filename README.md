@@ -18,6 +18,8 @@ The **Weather App** provides users with accurate weather forecasts by leveraging
 
 ## File Structure  
 ```text
+│── .gitignore      # Ignore unnecessary files from version control  
+│── .env            # Environment variables (API Key)
 │── index.html       # Main HTML file for the webpage  
 │── style.css        # CSS for styling the interface  
 │── weather.js       # JavaScript for fetching and displaying weather data  
@@ -60,6 +62,6 @@ The **Weather App** provides users with accurate weather forecasts by leveraging
 ## Known Issues  
 - If the city is not found, the app will display an error message in the console.
 - The app currently does not support weather alerts or notifications.
-=======
+
 # Weather_forecast_system
 Website that updates us with the wether today and for next 4 days
