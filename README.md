@@ -18,6 +18,8 @@ The **Weather App** provides users with accurate weather forecasts by leveraging
 
 ## File Structure  
 ```text
+│── .gitignore      # Ignore unnecessary files from version control  
+│── .env            # Environment variables (API Key)
 │── index.html       # Main HTML file for the webpage  
 │── style.css        # CSS for styling the interface  
 │── weather.js       # JavaScript for fetching and displaying weather data  
